@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114519642783",
+    "project_id": "flutterorderto",
+    "storage_bucket": "flutterorderto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114519642783:android:e35705fe43a0b0accc08aa",
+        "android_client_info": {
+          "package_name": "com.example.flutterorderto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114519642783-n2ffpvh21shjtipk7u8fs9cliogsr21v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBlwi4y-ursLahFEdNgS9QiIxLfJwzJ-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114519642783-n2ffpvh21shjtipk7u8fs9cliogsr21v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
